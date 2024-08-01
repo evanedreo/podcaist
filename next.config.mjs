@@ -9,7 +9,11 @@ const nextConfig = {
       {
         protocol:'https',
         hostname:"astute-goat-236.convex.cloud"
-      }
+      },
+      {
+        protocol:'https',
+        hostname:"img.clerk.com"
+      },
     ]
   }
 };

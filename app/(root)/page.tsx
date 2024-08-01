@@ -16,11 +16,11 @@ const Home = () => {
         <div className="podcast_grid">
           {trendingPodcasts?.map(({ _id, podcastTitle, podcastDescription, imageUrl }) => (
             <PodcastCard
-              key={_id}
+              key={ _id}
               imgUrl={imageUrl}
               title={podcastTitle}
               description={podcastDescription}
-              podcastId={_id}
+              podcastId={ _id}
             />
           ))}
         </div>
