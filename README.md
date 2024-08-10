@@ -1,5 +1,46 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## 🤖 Overview
+
+This AI-powered SaaS platform offers users a cutting-edge way to create, discover, and enjoy podcasts, featuring advanced functionalities like multi-voice AI text-to-audio conversion, automatic podcast thumbnail generation, and smooth playback.
+
+For those getting started or encountering any issues, our active Discord community with over **34k+** members is available for support and assistance.
+
+## ⚙️ Technology Stack
+
+- Next.js
+- TypeScript
+- Convex
+- OpenAI
+- Clerk
+- ShadCN
+- Tailwind CSS
+
+## 🔋 Key Features
+
+👉 **Secure User Authentication**: A robust system for user sign-up and sign-in.
+
+👉 **Home Page Design**: Highlights trending podcasts with a sticky podcast player for continuous listening.
+
+👉 **Podcast Discovery Page**: A dedicated page for users to browse new and popular podcasts.
+
+👉 **Advanced Search**: Allows users to search for podcasts easily using a variety of criteria.
+
+👉 **Podcast Creation Page**: Facilitates the creation of podcasts with features like text-to-audio conversion, AI-generated images, and previews.
+
+👉 **Multi-Voice AI Capability**: Supports multiple AI-generated voices for dynamic podcast creation.
+
+👉 **User Profile Page**: Displays all podcasts created by the user, with options to delete them.
+
+👉 **Podcast Information Page**: Shows detailed information for each podcast, including creator info, listener stats, and transcripts.
+
+👉 **Integrated Podcast Player**: Equipped with backward/forward controls and mute/unmute options for a seamless listening experience.
+
+👉 **Responsive Design**: Optimized for all devices and screen sizes, ensuring both functionality and visual appeal.
+
+...and many more features, including a well-organized code structure and reusable components.
+
+
 ## Getting Started
 
 First, run the development server:
