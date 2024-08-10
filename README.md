@@ -4,7 +4,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 This AI-powered SaaS platform offers users a cutting-edge way to create, discover, and enjoy podcasts, featuring advanced functionalities like multi-voice AI text-to-audio conversion, automatic podcast thumbnail generation, and smooth playback.
 
-For those getting started or encountering any issues, our active Discord community with over **34k+** members is available for support and assistance.
 
 ## ⚙️ Technology Stack
 
