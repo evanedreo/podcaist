@@ -60,7 +60,7 @@ const EmblaCarousel = ({ fansLikeDetail }: CarouselProps) => {
               <h2 className="text-14 font-semibold text-white-1">
                 {item.podcast[0]?.podcastTitle}
               </h2>
-              <p>{item.name}</p>
+              <p className="text-white-2">{item.name}</p>
             </div>
           </figure>
         ))}
