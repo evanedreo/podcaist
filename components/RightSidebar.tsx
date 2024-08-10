@@ -22,7 +22,7 @@ const RightSidebar = () => {
   if (!topPodcasters) return <LoaderSpinner />;
 
   return (
-    <section className={cn("right h-[calc(100vh-5px)]",{
+    <section className={cn("right h-[calc(100vh-5px)] hidden md:block",{
       'h-[calc(100vh-140px)]':audio?.audioUrl
     })}>
       <SignedIn>
